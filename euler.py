@@ -1,0 +1,1 @@
+print("Luana é linda")
